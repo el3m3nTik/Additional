@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lab10.dir/main.cpp.o CMakeFiles/lab10.dir/circle.cpp.o -o lab10 
